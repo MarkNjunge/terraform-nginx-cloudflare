@@ -1,0 +1,10 @@
+digitalocean_token   = ""
+digitalocean_droplet_name = "terraform"
+
+certbot_email = "contact@mail.com"
+certbot_domain = "terraform.domain.com"
+
+cloudflare_api_token = ""
+cloudflare_zone_id   = ""
+cloudflare_record_name = "terraform"
+
